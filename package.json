@@ -1,5 +1,5 @@
 {
-  "name": "emi-cli",
+  "name": "emi-old-cli",
   "version": "0.3.5",
   "description": "a web developer tools for emi ",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "postinstall": "node ./src/bootstrap/postinstall.js"
   },
   "bin": {
-    "emi": "./bin/cli.js"
+    "emi2": "./bin/cli.js"
   },
   "repository": {
     "type": "git",
